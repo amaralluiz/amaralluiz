@@ -2,7 +2,9 @@
  
 My name is Luiz Amaral. I'm a brazilian developer. :computer: 
 
-I really like Python, because was the first language that I work with in my carrer. I'm looking for a mentor right now, so if you know anyone please contact me.
+I really like Python because it was the first language that i worked with in my career. 
+
+I'm looking for a mentor right now, so if you know anyone please contact me.
 
 ### Currently studying :book:
 - JavaScript
