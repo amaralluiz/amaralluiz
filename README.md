@@ -9,7 +9,7 @@ I'm looking for a mentor right now, so if you know anyone please contact me.
 ### Currently studying :book:
 - JavaScript
 - React
-- C#
+- Java
 - PL/SQL
 
 ### Contact :mailbox:
