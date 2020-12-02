@@ -11,6 +11,7 @@ I'm looking for a mentor right now, so if you know anyone please contact me.
 - React
 - Java
 - PL/SQL
+- PHP
 
 ### Contact :mailbox:
 - Email: alaluizamaral@gmail.com
