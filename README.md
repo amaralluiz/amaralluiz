@@ -11,7 +11,8 @@ I'm looking for a mentor right now, so if you know anyone please contact me.
 ### Currently studying :book:
 - PHP
 - JavaScript
-- React
+- NodeJS
+- Algorithms
 - Design Patterns
 - SOLID
 
