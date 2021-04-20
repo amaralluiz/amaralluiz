@@ -21,7 +21,7 @@ I'm looking for a mentor right now, so if you know anyone please contact me.
 - Email: contato@amaralluiz.dev
 - Linkedin: https://www.linkedin.com/in/amaralluiz/
 
-### My Status
+### My Status :chart_with_upwards_trend:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amaralluiz&hide=html,css&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
