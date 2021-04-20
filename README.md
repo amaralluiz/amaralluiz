@@ -25,4 +25,4 @@ I'm looking for a mentor right now, so if you know anyone please contact me.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amaralluiz&hide=html,css&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=<your_GitHub_username>&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=amaralluiz&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
