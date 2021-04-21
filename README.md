@@ -8,6 +8,8 @@ I'm currently working with PHP, building APIs.
 
 I'm looking for a mentor right now, so if you know anyone please contact me.
 
+I have a blog where I write about programming and carreer: www.amaralluiz.dev
+
 ### Currently studying :book:
 - PHP
 - JavaScript
