@@ -4,9 +4,7 @@ My name is Luiz Amaral. I'm a brazilian developer. :computer:
 
 I really like Python because it was the first language that i worked with in my career. 
 
-I'm currently working with PHP, building APIs.
-
-I'm looking for a mentor right now, so if you know anyone please contact me.
+I'm currently working with PHP and JavaScript, building APIs.
 
 I have a blog where I write about programming and carreer: www.amaralluiz.dev
 
@@ -17,6 +15,7 @@ I have a blog where I write about programming and carreer: www.amaralluiz.dev
 - Algorithms
 - Design Patterns
 - SOLID
+- GraphQL
 
 ### Contact :mailbox:
 - Email: alaluizamaral@gmail.com
