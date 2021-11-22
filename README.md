@@ -10,12 +10,12 @@ I have a blog where I write about programming and carreer: www.amaralluiz.dev
 
 ### Currently studying :book:
 - PHP
+- Algorithms
+- SOLID
+- Design Patterns
 - JavaScript
 - NodeJS
-- Algorithms
-- Design Patterns
-- SOLID
-- GraphQL
+
 
 ### Contact :mailbox:
 - Email: alaluizamaral@gmail.com
