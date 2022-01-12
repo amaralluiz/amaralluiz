@@ -2,14 +2,13 @@
  
 My name is Luiz Amaral. I'm a brazilian developer. :computer: 
 
-I really like Python because it was the first language that i worked with in my career. 
-
 I'm currently working with PHP and JavaScript, building APIs.
 
 I have a blog where I write about programming and carreer: www.amaralluiz.dev
 
 ### Currently studying :book:
 - PHP
+- Laravel
 - Algorithms
 - SOLID
 - Design Patterns
