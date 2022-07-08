@@ -2,19 +2,18 @@
  
 My name is Luiz Amaral. I'm a brazilian developer. :computer: 
 
-I'm currently working with PHP and JavaScript, building APIs.
+I'm currently working with PHP and C#, building APIs.
 
 I have a blog where I write about programming and carreer: www.amaralluiz.dev
 
 ### Currently studying :book:
 - PHP
 - Laravel
+- C#
+- .NET
 - Algorithms
 - SOLID
 - Design Patterns
-- JavaScript
-- NodeJS
-
 
 ### Contact :mailbox:
 - Email: alaluizamaral@gmail.com
