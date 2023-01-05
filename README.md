@@ -2,7 +2,7 @@
  
 My name is Luiz Amaral. I'm a brazilian developer. :computer: 
 
-I'm currently working with PHP and C#, building APIs.
+I'm currently working with C# and React, building APIs and dashboards for management of those APIs.
 
 I have a blog where I write about programming and carreer: www.amaralluiz.dev
 
