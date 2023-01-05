@@ -7,10 +7,9 @@ I'm currently working with PHP and C#, building APIs.
 I have a blog where I write about programming and carreer: www.amaralluiz.dev
 
 ### Currently studying :book:
-- PHP
-- Laravel
 - C#
 - .NET
+- React
 - Algorithms
 - SOLID
 - Design Patterns
